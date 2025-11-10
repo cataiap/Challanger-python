@@ -50,9 +50,10 @@ Challanger-python/
 
 ---
 
+
 ## **4) Cómo ejecutarlo**
 
-## Google Colab 
+Google Colab 
 
 - Abre el notebook con el botón Open in Colab de arriba.
 - Ve a Entorno de ejecución → Ejecutar todo.
