@@ -50,7 +50,6 @@ Challanger-python/
 
 ---
 
-
 ## **4) Cómo ejecutarlo**
 
 ## Google Colab 
