@@ -43,3 +43,7 @@ pip install pandas matplotlib
 # 4) abrir el notebook
 Usa Jupyter o VS Code para abrir AluraStoreLatam.ipynb y ejecutar
 
+
+
+
+**Autor: Cataiap**
